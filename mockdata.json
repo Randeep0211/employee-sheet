@@ -1,0 +1,53 @@
+[
+  {
+    "Num": 1,
+    "Name": "Jenny Chan",
+    "Department": "Executive",
+    "Email": "jenny.chan@email.com",
+    "Phone": "333-962-7516",
+    "photo": " img file",
+    "Location": "Canada",
+    "Birth": "03/11/93",
+    "Hired on": "20/01/2010",
+    "Address": "3 waterfoot road"
+
+  },
+  {
+    "Num": 2,
+    "Name": "Jenny Chan",
+    "Department": "Executive",
+    "Email": "jenny.chan@email.com",
+    "Phone": "333-962-7516",
+    "photo": " img file",
+    "Location": "Canada",
+    "Birth": "03/11/93",
+    "Hired on": "20/01/2010",
+    "Address": "3 waterfoot road"
+  },
+  {
+    "Num": 3,
+    "Name": "Jenny Chan",
+    "Department": "Executive",
+    "Email": "jenny.chan@email.com",
+    "Phone": "333-962-7516",
+    "photo": " img file",
+    "Location": "Canada",
+    "Birth": "03/11/93",
+    "Hired on": "20/01/2010",
+    "Address": "3 waterfoot road"
+  },
+  {
+    "Name": "Jenny Chan",
+    "Department": "Executive",
+    "Email": "jenny.chan@email.com",
+    "Phone": "333-962-7516",
+    "photo": " img file",
+    "Location": "Canada",
+    "Birth": "03/11/93",
+    "Hired on": "20/01/2010",
+    "Address": "3 waterfoot road"
+  }
+ 
+]
+
+
